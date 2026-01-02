@@ -37,3 +37,4 @@ The best way to learn about opsec is to learn how people fail.
 - Old cat, new tricks, [bad habits](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/old-cat-new-tricks.html)
 - Geost botnet discovery of a new Android banking trojan from an [OpSec error](https://www.virusbulletin.com/virusbulletin/2019/10/vb2019-paper-geost-botnet-story-discovery-new-android-banking-trojan-opsec-error/)
 - Opsec Mistakes Reveal [COBALT MIRAGE Threat Actors](https://www.secureworks.com/blog/opsec-mistakes-reveal-cobalt-mirage-threat-actors)
+- Strava data shared by bodyguards exposed [Swedish PM’s private address](https://www.theguardian.com/world/2025/jul/08/swedish-pm-safety-strava-data-bodyguards-ulf-kristersson-running-cycling-routes)
